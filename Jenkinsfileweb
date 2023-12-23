@@ -9,7 +9,7 @@ pipeline {
                                     playbook:'ansible/installweb.yml'
                     
                                )  
-                           }
+                        }
+                }      
         }
-    }
 }
